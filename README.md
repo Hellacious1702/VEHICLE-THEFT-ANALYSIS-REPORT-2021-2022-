@@ -21,15 +21,6 @@ This project provides an in-depth data analysis of motor vehicle thefts to ident
 3. What is the demographic profile of a stolen vehicle (e.g., Average Age, Standard vs. Luxury)?
 4. Which specific manufacturing years (Model Years) carry the highest risk of theft?
 
-## 🖼️ Dashboard Previews
-*(Note: To make these images work in GitHub, upload your dashboard screenshots to the `images` folder and update the paths below).*
-
-### 1. Overall Unfiltered Dashboard
-![Overall Dashboard](images/dashboard_overview.png)
-
-### 2. Segment Analysis: Hatchbacks
-![Hatchback Segment](images/hatchback_filter.png)
-
 ## 📈 Key Findings & Insights
 
 ### 1. The 2022 Theft Surge
@@ -49,7 +40,7 @@ The historical manufacturing year of the vehicle is one of the strongest predict
 3. **Investigate the Powersport Black Market:** The disproportionate volume of Yamaha thefts suggests an active market for stolen motorcycle parts. Focus should be placed on secondary markets dealing in these components.
 
 ## 📂 How to Use This Repository
-1. Clone the repository: `git clone https://github.com/YourUsername/motor-vehicle-theft-analysis.git`
+1. Clone the repository: `git clone https://github.com/YourUsername/VEHICLE-THEFT-ANALYSIS-REPORT-2021-2022-.git`
 2. The raw dataset is available in the `data/` folder.
 3. Open the `.pbix` file in the `dashboards/` folder using Power BI Desktop to interact with the visualisations.
 
